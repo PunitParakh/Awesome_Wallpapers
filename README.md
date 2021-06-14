@@ -1,16 +1,13 @@
-# awesome_wallpapers
+## Awesome_wallpapers
 
-A new Flutter project.
+This is an wallpaper viewer and downloading application built on flutter. It is an cross plateform application which mean you can run this app on #Android, #IOS, and even on the #web as well.
 
-## Getting Started
+In this application i use an API which can fetch the latest and searched wallpapers from the server. it has 4 pages which are:
+1. Trending Wallpapers page.
+2. Searched Wallpapers page.
+3. category Page.
+4. Portrait Image viewer with download functionality.
 
-This project is a starting point for a Flutter application.
+This application is made with lots of hardwork so give it a like.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And if you want to try this app then you can download or fork this repository.It's Free :)
